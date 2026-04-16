@@ -1,0 +1,8 @@
+{
+  "name": "FreshCheck: Expiry Date Detector",
+  "description": "Scan or upload product labels to automatically detect and track expiry dates using Gemini Vision AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
